@@ -1,0 +1,39 @@
+{
+  "name": "oasis-ai-bot",
+  "type": "module",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "setup": "node app/setup.js",
+    "autoreff": "node config/autoreff.js"
+  },
+  "author": "Rambeboy",
+  "license": "MIT",
+  "description": "oasis-ai-bot-auto-create-multiple-providers",
+  "dependencies": {
+    "@cemalgnlts/mailjs": "^3.0.1",
+    "axios": "^1.7.8",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0",
+    "https-proxy-agent": "^7.0.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rambeboy/oasis-ai-bot.git"
+  },
+  "keywords": [
+    "oasis-bot",
+    "oasisbot",
+    "oasisaibot",
+    "oasisai-bot",
+    "https://oasis.ai",
+    "rambeboy"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rambeboy/oasis-ai-bot/issues"
+  },
+  "homepage": "https://github.com/Rambeboy/oasis-ai-bot#readme"
+}
