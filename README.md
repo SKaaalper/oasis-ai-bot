@@ -53,7 +53,7 @@ so if you want create multiple providers you need to put multiple proxy there.
    nano accounts.js
    ```
 
-6. put your proxy to `proxy_list.js`
+6. Put your proxy to `proxy_list.js`
 
    ```bash
    nano proxy_list.js
