@@ -1,6 +1,6 @@
 import { readToken, delay } from "./src/api/file.js";
 import { createConnection } from "./src/network/websocket.js";
-import { showBanner } from "./scr/utils/helper.js";
+import { showBanner } from "./src/utils/helper.js";
 
 async function start() {
     showBanner()
