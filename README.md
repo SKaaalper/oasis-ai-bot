@@ -21,7 +21,7 @@ AI inference powered by distributed compute.
 
 - Put your proxy in file `proxy_list.js` format `http://username:pass@ip:port` 1 proxy for 1 provider
 
- *Sample format for no username and password: `http://104.201.50.165:3128`
+- Sample format for no username and password: `http://104.201.50.165:3128`
 
 so if you want create multiple providers you need to put multiple proxy there.
 
