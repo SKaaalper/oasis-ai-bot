@@ -90,7 +90,7 @@ so if you want create multiple providers you need to put multiple proxy there.
    ```bash
    npm run start
    ```
-https://github.com/SKaaalper/oasis-ai-bot/blob/0304219f807a242ec6bc50ec96da27c12305b55d/1.png
+![Banner](https://github.com/SKaaalper/oasis-ai-bot/raw/main/1.png)
 
 ## LICENSE
 
