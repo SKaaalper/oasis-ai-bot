@@ -82,12 +82,8 @@ so if you want create multiple providers you need to put multiple proxy there.
    ```bash
    npm run setup
    ```
-8. Save your `tokens.txt`
-   ```
-   nano tokens.txt
-   ```
 
-9. Run The Script:
+8. Run The Script:
 
    ```bash
    npm run start
