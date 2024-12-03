@@ -35,7 +35,7 @@ so if you want create multiple providers you need to put multiple proxy there.
  
     **Take note only 7 Days Free**
 
-- **No Account**: https://r.oasis.ai/677c45028aa81aa3
+- **Oasis Official Dashboard**: https://r.oasis.ai/677c45028aa81aa3
 
 ## Installation
 
