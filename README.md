@@ -23,19 +23,18 @@ AI inference powered by distributed compute.
 
 - Sample format for no username and password: `http://104.201.50.165:3128`
 
-so if you want create multiple providers you need to put multiple proxy there.
+- So if you want create multiple providers you need to put multiple proxy there.
 
-**Free proxy for 7 days go here: https://dashboard.proxyscrape.com/v2/services/premium/ip-authentication/d0a61512-5605-46df-8653-7e7a3d26c830**
-  
-  - Create Account
-  
-  - Need 1 IP to authenticate just paste it to your server `curl http://ipinfo.io/`
-  
-  - Copy the IP address and authenticate and wait for 10Minutes
- 
-    **Take note only 7 Days Free**
+**Free proxy for 7 days Trial**
 
-- **Oasis Official Dashboard**: https://r.oasis.ai/677c45028aa81aa3
+- Go here [7Days proxy free trial](https://dashboard.proxyscrape.com/v2/services/premium/ip-authentication/d0a61512-5605-46df-8653-7e7a3d26c830)
+- Create account
+- Authenticate 1 IP you use for the Proxy
+- For Cloud `curl http://ipinfo.io/`
+- For Windows `http://ipinfo.io/`
+- Copy your IP add then authenticate
+
+- **Oasis Official Dashboard**: [Create Account](https://r.oasis.ai/677c45028aa81aa3)
 
 ## Installation
 
