@@ -27,9 +27,9 @@ so if you want create multiple providers you need to put multiple proxy there.
 
 **Free proxy for 7 days go here: https://dashboard.proxyscrape.com/v2/services/premium/ip-authentication/d0a61512-5605-46df-8653-7e7a3d26c830**
   
-  - Create Account
+  - Create Account: https://r.oasis.ai/677c45028aa81aa3
   
-  - Need 1 IP to authenticate just paste i to your server `curl http://ipinfo.io/`
+  - Need 1 IP to authenticate just paste it to your server `curl http://ipinfo.io/`
   
   - Copy the IP address and authenticate and wait for 10Minutes
  
