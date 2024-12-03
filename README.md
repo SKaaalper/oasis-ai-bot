@@ -21,17 +21,17 @@ AI inference powered by distributed compute.
 
 - Put your proxy in file `proxy_list.js` format `http://username:pass@ip:port` 1 proxy for 1 provider
 
- *Sample format for no authenticator: `http://104.201.50.165:3128`
+ *Sample format for no username and password: `http://104.201.50.165:3128`
 
 so if you want create multiple providers you need to put multiple proxy there.
 
 **Free proxy for 7 days go here: https://dashboard.proxyscrape.com/v2/services/premium/ip-authentication/d0a61512-5605-46df-8653-7e7a3d26c830**
   
-  *Create Account
+  - Create Account
   
-  *Need 1 IP to authenticate just paste i to your server `curl http://ipinfo.io/`
+  - Need 1 IP to authenticate just paste i to your server `curl http://ipinfo.io/`
   
-  *Copy the IP address and authenticate and wait for 10Minutes
+  - Copy the IP address and authenticate and wait for 10Minutes
  
     **Take note only 7 Days Free**
 
