@@ -92,6 +92,9 @@ AI inference powered by distributed compute.
    ```bash
    npm run start
    ```
+- Detach screen `ctrl + A` , `D`
+
+  
 ![Banner](https://github.com/SKaaalper/oasis-ai-bot/raw/main/1.png)
 
 ## LICENSE
