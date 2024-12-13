@@ -81,8 +81,13 @@ AI inference powered by distributed compute.
    ```bash
    npm run setup
    ```
+   
+8. Open Screen Session
+   ```
+   screen -S oasis
+   ```
 
-8. Run The Script:
+9. Run The Script:
 
    ```bash
    npm run start
